@@ -37,9 +37,9 @@ the wordlist can be in both .json and .txt files. if the filetype is .json, the 
 Brutelock has a lot more features including:
 
 
-- **Setting for minimal password length (--ml <number>)**
-- **Setting for what characters the password can contain (--charpool <number>)**
-- **Setting for maximum cracks the program should do before exiting (--max <number>)**
+- *Setting for minimal password length (--ml <number>)*
+- *Setting for what characters the password can contain (--charpool <number>)*
+- *Setting for maximum cracks the program should do before exiting (--max <number>)*
 
 ## Installation
 
