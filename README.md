@@ -50,7 +50,7 @@ git clone https://github.com/GilbertEnevoldsen/Brutelock.git
 ## Usage
 ```
 Usage: [-help / --help HELP] [-m METHOD] [-f PASSWORD FILE] [--ml MINIMUM LENGTH]
-                 [--charpool CHARACTER POOL] [--wordlist WORDLIST] [--max MAX CRACKS] [-out OUTPUT FILE]
+       [--charpool CHARACTER POOL] [--wordlist WORDLIST] [--max MAX CRACKS] [-out OUTPUT FILE]
           
 Arguments:
   -help, --help     shows this message
